@@ -1,0 +1,43 @@
+dosya > tercihler > ayarlar > word wrap on yaparsan editöre sığmayan uzun satırlar alta geçer uzayıp gitmez.
+(Veya View altında son seçenek word wrap)
+
+File > auto save on-off
+
+Sol alttaki ikondan > keyboard shortcuts > zoom
+
+Sol alttaki ikondan > settings > Format On Save
+
+ctrl+sağ tık kelimenin ilgili dosyasının içini gösterir.
+
+ctrl+h bul ve değiştir veya F2 ye basınca da değiştirebilirsin fakat bütün dosyaların içlerini değiştiriyor.
+
+shift+alt+a seçili bloğu yorum satırı yapar.
+ctrl+ö satırı yorum satırı yapar
+alt+click ile birden fazla imlece sahip olunabilir.
+çift tık kelime, 3 tık tüm satırı seçer.
+ctrl+g istenen satıra gider.
+shift+ctrl+z yineler.
+ctrl+sağ veya sol ok kelime kelime ilerler.
+ctrl+shifht+sağ veya sol ok kelime kelime seçerek ilerler.
+alt+yukarı veya aşağı ok satırı taşır.
+shift+alt+yukarı veya aşağı ok satırı kopyalayıp yapıştırır.
+
+ctrl + d bi kelimeye çift tıkladıktan sonra aynılarını seçer
+
+sol taraftan bir dosyanın üstüne sağ tıklayıp "open in integrated terminal" dersen ilgili klasörde terminali açar
+---------
+Github sayfasında noktaya basarsan vscode gibi görüntüler
+---------
+win tuşu + nokta = emoji 
+
+---------
+Sol alttaki settings ikonu (Manage) > Settings > sağ üstte Open Settings (json) içine
+"explorer.compactFolders": false,
+  "workbench.tree.indent": 18,
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#FB8F1D"
+  },
+bunu kopyalarsan bir klasör içinde başka tek bir klasör varsa yanında değilde altında gösterir 
+
+--------
+terminalde + ikonunun sağındaki aşağı oka basıp "select default profile" seçersen terminal türünü seçersin.
